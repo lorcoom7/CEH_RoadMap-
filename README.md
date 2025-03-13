@@ -1,4 +1,3 @@
-# CEH_RoadMap
 # 🔥 Ethical Hacking Roadmap (Hands-On)  
 
 Welcome to the **Ethical Hacking Roadmap**! This repository is a structured guide for learning **ethical hacking** with a **practical, hands-on approach**.  
